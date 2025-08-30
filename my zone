@@ -1,0 +1,13 @@
+# Print numbers 1 to 10 with their squares
+for i in range(1, 11):
+    print(f"Number: {i}, Square: {i*i}")
+
+# Calculate sum of numbers 1 to 10
+total = sum(range(1, 11))
+print("\nSum of numbers 1 to 10:", total)
+
+# Find maximum number in the list
+numbers = list(range(1, 11))
+print("Maximum number:", max(numbers))
+print("Minimum number:", min(numbers))
+print("Average:", total / len(numbers))

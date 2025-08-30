@@ -11,3 +11,10 @@ numbers = list(range(1, 11))
 print("Maximum number:", max(numbers))
 print("Minimum number:", min(numbers))
 print("Average:", total / len(numbers))
+public class Numbers {
+    public static void main(String[] args) {
+        for (int i = 1; i <= 10; i++) {
+            System.out.println("Number: " + i + ", Square: " + (i * i));
+        }
+    }
+}

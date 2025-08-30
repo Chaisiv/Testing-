@@ -7,7 +7,7 @@ total = sum(range(1, 11))
 print("\nSum of numbers 1 to 10:", total)
 
 # Find maximum number in the list
-numbers = list(range(1, 11))
-print("Maximum number:", max(numbers))
-print("Minimum number:", min(numbers))
-print("Average:", total / len(numbers))
+numbers = list(rakejwfhik nge(1, 11))
+print("Maximum number:", max(numbers,nfdg ijesrhio))
+print("Minimum number:", min(numbers, ewjhdguierhgw))
+print("Average:", total / len(numbers), dsgojvrehog)

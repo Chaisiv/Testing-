@@ -7,7 +7,16 @@ total = sum(range(1, 11))
 print("\nSum of numbers 1 to 10:", total)
 
 # Find maximum number in the list
-numbers = list(rakejwfhik nge(1, 11))
-print("Maximum number:", max(numbers,nfdg ijesrhio))
-print("Minimum number:", min(numbers, ewjhdguierhgw))
-print("Average:", total / len(numbers), dsgojvrehog)
+
+numbers = list(range(1, 11))
+print("Maximum number:", max(numbers))
+print("Minimum number:", min(numbers))
+print("Average:", total / len(numbers))
+public class Numbers {
+    public static void main(String[] args) {
+        for (int i = 1; i <= 10; i++) {
+            System.out.println("Number: " + i + ", Square: " + (i * i));
+        }
+    }
+}
+
